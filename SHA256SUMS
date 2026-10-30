@@ -1,0 +1,14 @@
+39a01f20d93dfd6fae7c8e7c9d2815fcc5dff037a1fceb4b7fbd866d371b4608  aura-nx-5000/datasheets/Aura DevKit Carrier Board Specification_DX-5000-D_V1.2.5.pdf
+15fc1c0f43c664a5ec96c378686ef0f802efcbee73ef55ede0900bc3180aa1df  aura-nx-5000/datasheets/Aura Module Datasheet_NX-5000-D_V1.11.pdf
+d80841cb57eceb76c7ca2c6f7d1677a9b54eac947fed9c1db4314c6d42173c07  aura-nx-5000/datasheets/Aura_Module_BOT点位图.pdf
+5fd51653d70bc313014dae94a67aa1cbd4eb5cde0a6073858b9fd4b1a61dc7d9  aura-nx-5000/datasheets/Aura_Module_TOP点位图.pdf
+8e07b8e049a1ccddbb99556db77f22797f1920571b2cdfcf28e351305e84c102  aura-nx-5000/schematics-and-pcb/QSC801XP-AP_EVB_PCB_V1.2_20260310.brd
+5ff633bda60de4d8a9b966bd7da6c64b42afdd2c12e92c68b9545e343a16f6aa  aura-nx-5000/schematics-and-pcb/QSC801XP-AP_EVB_SCH_V1.2_20260430.pdf
+9025e180f07d100d67b2bb17997ceccd7176c14f3c530e7d5997e113d4045e28  aura-nx-5000/schematics-and-pcb/QSC801XP-AP_SCH_V1.1.pdf
+0abe32ef46f30b258c4cd50e042a3d029e7a8c97d73db3e9b4e8be624ee90fe6  aura-nx-5000/3d-models/00_qsc801xp-ap_v1-2_pcba_3d_260415.stp
+7bb5c3c4529be1bad45a21fc81032e3cd8e55272eebb3ded8a7aeca81865e296  kalos-nx-3000/datasheets/Kalos DevKit Carrier Board Specification_DX-3000-D.pdf
+33fdbc76ca5822aed9fc4973f31f11053e1624c5f578ce432d17dad5a1c8b33e  kalos-nx-3000/datasheets/Kalos Module Datasheet_NX-3000-D_V1.4.pdf
+feee70706ebcb3485adfb4b5eac3dbf26795ebabb19a110d0edb7c90f60cb3a3  kalos-nx-3000/schematics-and-pcb/RC01_CARRIER_V100-20260211C.pdf
+1a1f86c900d34978450b6422678807f1ffe7aecd614c5d2f225f39e03e324b94  kalos-nx-3000/schematics-and-pcb/RC01_CARRIER_V100-20260212C.brd
+ffb4a5f7c9ae98e7195bf9659508453812f65aa2a5cbd0d011748ddc286c1a6a  kalos-nx-3000/schematics-and-pcb/RC01_CORE_V100.pdf
+e593ed7ba2dca2f45f6eeb84dc96812e762a368d1942338a0f3fbd8618be8671  kalos-nx-3000/3d-models/rc01-all_20260330_0415.stp
